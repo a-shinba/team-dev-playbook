@@ -1,4 +1,8 @@
 # team-dev-playbook
+
+- ここに記載がない、質問や困ったことなどは以下に登録してください！
+- https://github.com/a-shinba/team-dev-playbook/issues/new
+
 # チーム開発プレイブック  
 _スクラムと GitHub を使ったハッカソン開発ガイド_
 
